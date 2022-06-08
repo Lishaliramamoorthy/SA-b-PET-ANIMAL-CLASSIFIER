@@ -30,11 +30,11 @@ class Pet(object):
         self.Name = name
 
 
-Pet1 = Pet('Cat', 'Orange', 'Kibble Bits', 'Purr', 'Toby')
-Pet2 = Pet('Dog', 'black', 'Steak', 'Bark', 'Elvis')
-Pet3 = Pet('Cat', 'Black', 'Kibble Bits', 'Hiss', 'Salem')
-Pet4 = Pet ('Salammander', 'White', 'Insects', 'Hiss', 'Gertrude')
-Pet5 = Pet('Pig', 'Pink', 'Feed', 'Oink', 'WiLbur')
+Pet1 = Pet('Cat', 'Orange', 'Kibble Bits', 'Purr', 'Cinnamon')
+Pet2 = Pet('Dog', 'black', 'Steak', 'Bark', 'Lucy')
+Pet3 = Pet('Cat', 'Black', 'Kibble Bits', 'Hiss', 'Zoe')
+Pet4 = Pet ('Salammander', 'White', 'Insects', 'Hiss', 'Tiger')
+Pet5 = Pet('Pig', 'Pink', 'Feed', 'Oink', 'Luna')
 
 petList = [Pet1, Pet2, Pet3, Pet4, Pet5]
 
